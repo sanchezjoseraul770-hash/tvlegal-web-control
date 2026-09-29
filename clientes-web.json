@@ -1,0 +1,256 @@
+{
+    "version": "1.0",
+    "mensaje": "Servicio activo",
+    "clientes": [
+        {
+            "id": "cliente001",
+            "nombre": "Cliente WEB 001",
+            "activo": true
+        },
+        {
+            "id": "cliente002",
+            "nombre": "Cliente WEB 002",
+            "activo": true
+        },
+        {
+            "id": "cliente003",
+            "nombre": "Cliente WEB 003",
+            "activo": true
+        },
+        {
+            "id": "cliente004",
+            "nombre": "Cliente WEB 004",
+            "activo": true
+        },
+        {
+            "id": "cliente005",
+            "nombre": "Cliente WEB 005",
+            "activo": true
+        },
+        {
+            "id": "cliente006",
+            "nombre": "Cliente WEB 006",
+            "activo": true
+        },
+        {
+            "id": "cliente007",
+            "nombre": "Cliente WEB 007",
+            "activo": true
+        },
+        {
+            "id": "cliente008",
+            "nombre": "Cliente WEB 008",
+            "activo": true
+        },
+        {
+            "id": "cliente009",
+            "nombre": "Cliente WEB 009",
+            "activo": true
+        },
+        {
+            "id": "cliente010",
+            "nombre": "Cliente WEB 010",
+            "activo": true
+        },
+        {
+            "id": "cliente011",
+            "nombre": "Cliente WEB 011",
+            "activo": true
+        },
+        {
+            "id": "cliente012",
+            "nombre": "Cliente WEB 012",
+            "activo": true
+        },
+        {
+            "id": "cliente013",
+            "nombre": "Cliente WEB 013",
+            "activo": true
+        },
+        {
+            "id": "cliente014",
+            "nombre": "Cliente WEB 014",
+            "activo": true
+        },
+        {
+            "id": "cliente015",
+            "nombre": "Cliente WEB 015",
+            "activo": true
+        },
+        {
+            "id": "cliente016",
+            "nombre": "Cliente WEB 016",
+            "activo": true
+        },
+        {
+            "id": "cliente017",
+            "nombre": "Cliente WEB 017",
+            "activo": true
+        },
+        {
+            "id": "cliente018",
+            "nombre": "Cliente WEB 018",
+            "activo": true
+        },
+        {
+            "id": "cliente019",
+            "nombre": "Cliente WEB 019",
+            "activo": true
+        },
+        {
+            "id": "cliente020",
+            "nombre": "Cliente WEB 020",
+            "activo": true
+        },
+        {
+            "id": "cliente021",
+            "nombre": "Cliente WEB 021",
+            "activo": true
+        },
+        {
+            "id": "cliente022",
+            "nombre": "Cliente WEB 022",
+            "activo": true
+        },
+        {
+            "id": "cliente023",
+            "nombre": "Cliente WEB 023",
+            "activo": true
+        },
+        {
+            "id": "cliente024",
+            "nombre": "Cliente WEB 024",
+            "activo": true
+        },
+        {
+            "id": "cliente025",
+            "nombre": "Cliente WEB 025",
+            "activo": true
+        },
+        {
+            "id": "cliente026",
+            "nombre": "Cliente WEB 026",
+            "activo": true
+        },
+        {
+            "id": "cliente027",
+            "nombre": "Cliente WEB 027",
+            "activo": true
+        },
+        {
+            "id": "cliente028",
+            "nombre": "Cliente WEB 028",
+            "activo": true
+        },
+        {
+            "id": "cliente029",
+            "nombre": "Cliente WEB 029",
+            "activo": true
+        },
+        {
+            "id": "cliente030",
+            "nombre": "Cliente WEB 030",
+            "activo": true
+        },
+        {
+            "id": "cliente031",
+            "nombre": "Cliente WEB 031",
+            "activo": true
+        },
+        {
+            "id": "cliente032",
+            "nombre": "Cliente WEB 032",
+            "activo": true
+        },
+        {
+            "id": "cliente033",
+            "nombre": "Cliente WEB 033",
+            "activo": true
+        },
+        {
+            "id": "cliente034",
+            "nombre": "Cliente WEB 034",
+            "activo": true
+        },
+        {
+            "id": "cliente035",
+            "nombre": "Cliente WEB 035",
+            "activo": true
+        },
+        {
+            "id": "cliente036",
+            "nombre": "Cliente WEB 036",
+            "activo": true
+        },
+        {
+            "id": "cliente037",
+            "nombre": "Cliente WEB 037",
+            "activo": true
+        },
+        {
+            "id": "cliente038",
+            "nombre": "Cliente WEB 038",
+            "activo": true
+        },
+        {
+            "id": "cliente039",
+            "nombre": "Cliente WEB 039",
+            "activo": true
+        },
+        {
+            "id": "cliente040",
+            "nombre": "Cliente WEB 040",
+            "activo": true
+        },
+        {
+            "id": "cliente041",
+            "nombre": "Cliente WEB 041",
+            "activo": true
+        },
+        {
+            "id": "cliente042",
+            "nombre": "Cliente WEB 042",
+            "activo": true
+        },
+        {
+            "id": "cliente043",
+            "nombre": "Cliente WEB 043",
+            "activo": true
+        },
+        {
+            "id": "cliente044",
+            "nombre": "Cliente WEB 044",
+            "activo": true
+        },
+        {
+            "id": "cliente045",
+            "nombre": "Cliente WEB 045",
+            "activo": true
+        },
+        {
+            "id": "cliente046",
+            "nombre": "Cliente WEB 046",
+            "activo": true
+        },
+        {
+            "id": "cliente047",
+            "nombre": "Cliente WEB 047",
+            "activo": true
+        },
+        {
+            "id": "cliente048",
+            "nombre": "Cliente WEB 048",
+            "activo": true
+        },
+        {
+            "id": "cliente049",
+            "nombre": "Cliente WEB 049",
+            "activo": true
+        },
+        {
+            "id": "cliente050",
+            "nombre": "Cliente WEB 050",
+            "activo": true
+        }
+    ]
+}
