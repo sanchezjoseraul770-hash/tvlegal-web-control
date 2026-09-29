@@ -5,7 +5,7 @@
         {
             "id": "cliente001",
             "nombre": "Cliente WEB 001",
-            "activo": true,
+            "activo": false,
             "codigo": "r-Y4W5ZAVUxeEDuM7LAyx1Vn"
         },
         {
